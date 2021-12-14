@@ -1,11 +1,9 @@
 # YearUp
 
-This is a regular paragraph.
+Welcome to the Application Development Bootcamp 
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
-
-This is another regular paragraph.
+We will meet on the following days:
+* December 13, 2021
+* December 20, 2021
+* January 3, 2021
+* January 10, 2021
