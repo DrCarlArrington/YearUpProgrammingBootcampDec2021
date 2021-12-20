@@ -5,4 +5,5 @@ The points are awarded as follows:
 * If a customer purchases 2 books, he or she earns 15 points.
 * If a customer purchases 3 books, he or she earns 30 points.
 * If a customer purchases 4 or more books, he or she earns 60 points.
+
 Write a program that asks the user to enter the number of books that he or she has purchased this month and displays the number of points awarded.
