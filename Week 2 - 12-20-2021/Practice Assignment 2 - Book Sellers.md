@@ -1,4 +1,5 @@
-Serendipity Booksellers has a book club that awards points to its customers based on thenumber of books purchased each month. 
+Serendipity Booksellers has a book club that awards points to its customers based on the number of books purchased each month. 
+
 The points are awarded as follows:
 * If a customer purchases 0 books, he or she earns 0 points.
 * If a customer purchases 1 book, he or she earns 5 points.
