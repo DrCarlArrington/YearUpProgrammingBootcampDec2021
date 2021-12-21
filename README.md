@@ -12,6 +12,15 @@ We will meet on the following days:
         * File 5 - [inputDemo2.py](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/3a1287020bd7239fac562522a0ed7e022a01d9d5/Week%201%20-%2012-13-2021/inputDemo2.py)
         * File 6 - [inputDemo3.py](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/998e55e5d4c71130cd304d7e999b7ae0d321572c/Week%201%20-%2012-13-2021/inputDemo3.py)
         * File 7 - [inputDemo4.py](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/ec0deaab74578d8084dc5d837b99f0cd309ddffd/Week%201%20-%2012-13-2021/inputDemo4.py)
-* December 20, 2021
+* December 20, 2021 - Click [here](https://yearup.zoom.us/rec/share/21lscW17El51M4NQoblZe4U3d_47sANa9URMRWFhHwKiEvXr6J5S-WlI6cRTHHL7.gkoqq3fEMeVvP5Ej) to view the class meeting from 12/13/2021. Use Passcode: .L7TQ6ag
+     * Files created during the 12/20/2021 session:
+         * File 1 - ifstatementDemo.py
+         * File 2 - ifElseStatementDemo.py
+         * File 3 - ifElseIfStatementDemo.py
+         * File 4 - nestedDemo.py
+         * File 5 - comparingStrings.py
+         * File 6 - whileLoopDemo.py
+         * File 7 - whileLoopDemo2.py
+         * File 8 - whileLoopDemo3.py
 * January 3, 2021
 * January 10, 2021
