@@ -24,5 +24,19 @@ We will meet on the following days:
          * File 6 - [whileLoopDemo.py](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%202%20-%2012-20-2021/whileloopDemo.py)
          * File 7 - [whileLoopDemo2.py](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%202%20-%2012-20-2021/whileloopDemo2.py)
          * File 8 - [whileLoopDemo3.py](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%202%20-%2012-20-2021/whileloopDemo3.py)
-* January 3, 2021
-* January 10, 2021
+
+
+* January 3, 2022
+    * Files created during the 01/03/2022 session:
+        * File 1 - [Demo1.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%203%20-%2001-03-2022/Demo1.cpp)
+        * File 2 - [Demo2.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%203%20-%2001-03-2022/Demo2.cpp)
+        * File 3 - [literalDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%203%20-%2001-03-2022/literalDemo.cpp)
+        * File 4 - [dataDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%203%20-%2001-03-2022/dataDemo.cpp)
+        * File 5 - [dataDemo2.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%203%20-%2001-03-2022/dataDemo2.cpp)
+        * File 6 - [dataDemo3.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%203%20-%2001-03-2022/dataDemo3.cpp)
+        * File 7 - [constantDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%203%20-%2001-03-2022/constantDemo.cpp)
+        * File 8 - [cinDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%203%20-%2001-03-2022/cinDemo.cpp)
+        * File 9 - [StringInputDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%203%20-%2001-03-2022/StringInputDemo.cpp)
+
+
+* January 10, 2022
