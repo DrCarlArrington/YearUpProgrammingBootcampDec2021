@@ -27,6 +27,7 @@ We will meet on the following days:
 
 
 * January 3, 2022
+    * Click [here](https://yearup.zoom.us/rec/share/GNib3kL4N3WU4fw428y-o7umLuFqBxdtE_bU_1V1vnPODP2tWLbZ1p3NAVqfq2b7.cmiCy28d09asLFm5) to view the class meeting from 01/03/2022. Use Passcode: n!Zk52uc
     * Files created during the 01/03/2022 session:
         * File 1 - [Demo1.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%203%20-%2001-03-2022/Demo1.cpp)
         * File 2 - [Demo2.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%203%20-%2001-03-2022/Demo2.cpp)
@@ -40,3 +41,17 @@ We will meet on the following days:
 
 
 * January 10, 2022
+    * Click [here](https://yearup.zoom.us/rec/share/9yOdWDBfsBUIsnyjvyixX2VupfotFi5DliEK2oLapBsmpc8-2RpuP-NwTayt4HSQ.kt3oyW_PnTohNOb3) to view the class meeting from 01/10/2022. Use Passcode: 6@4QU3re
+    * Files created during the 01/10/2022 session:
+        * File 1 - [StringIntDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/StringIntDemo.cpp)
+        * File 2 - [setprecision.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/setprecision.cpp)
+        * File 3 - [setwDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/setwDemo.cpp)
+        * File 4 - [Random Number Demo - Ints.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/Random%20Number%20Demo%20-%20Ints.cpp)
+        * File 5 - [Random Number Demo - Floats and Doubles.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/Random%20Number%20Demo%20-%20Floats%20and%20Doubles.cpp)
+        * File 6 - [ifStatementDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/ifStatementDemo.cpp)
+        * File 7 - [ifElseStatementDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/ifElseStatementDemo.cpp)
+        * File 8 - [ifElseIfStatementDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/ifElseIfStatementDemo.cpp)
+        * File 9 - [whileLoopDemo1.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/whileLoopDemo1.cpp)
+        * File 10 - [whileLoopDemo2.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/whileLoopDemo2.cpp)
+        * File 11 - [doWhileLoopDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/doWhileLoopDemo.cpp)
+        * File 12 - [forLoopDemo.cpp](https://github.com/DrCarlArrington/YearUpProgrammingBootcampDec2021/blob/main/Week%204%20-%2001-10-2022/forloopdemo.cpp)
